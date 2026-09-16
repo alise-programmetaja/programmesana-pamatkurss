@@ -1,1 +1,1 @@
-print("te nav alise")
+print("te nav alise un krista")
