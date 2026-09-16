@@ -1,1 +1,1 @@
-print("te alise")
+print("te nav alise")
