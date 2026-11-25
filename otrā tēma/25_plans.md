@@ -16,13 +16,13 @@
 
 
 
-## |     mainīgā vārds    |           datu tips                 |                 ko glabā                   |
-### |   `speletaja_vards`  |              `str`                  |              Spēlētāja vārds               |
-### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
-### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
-### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
-### | `slepenais_skaitlis` |              `int`                  | Programmas uzģenerētais nejaušais skaitlis |
-### |       `punkti`       |              `int`                  |       Spēlētāja iegūtais punktu skaits     |
+ ## |     mainīgā vārds    |           datu tips                 |                 ko glabā                   |
+ ### |   `speletaja_vards`  |              `str`                  |              Spēlētāja vārds               |
+ ### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
+ ### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
+ ### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
+ ### | `slepenais_skaitlis` |              `int`                  | Programmas uzģenerētais nejaušais skaitlis |
+ ### |       `punkti`       |              `int`                  |       Spēlētāja iegūtais punktu skaits     |
 
 `punkti = 5- abs(slepenais_skaitlis - minets_skaitlis)`
 
