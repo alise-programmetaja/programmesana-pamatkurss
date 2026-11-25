@@ -17,7 +17,6 @@
 
 
 ## |     mainīgā vārds    |           datu tips                 |                 ko glabā                   |
-### |:----------------- ---|:-----------------------------------:|-------------------------------------------:|
 ### |   `speletaja_vards`  |              `str`                  |              Spēlētāja vārds               |
 ### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
 ### |   `minets_skaitlis`  |              `int`                  | Spēlētāja minētais skaitlis (no 1 līdz 12) |
