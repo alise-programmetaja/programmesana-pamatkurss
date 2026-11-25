@@ -27,7 +27,6 @@
 `punkti = 5- abs(slepenais_skaitlis - minets_skaitlis)`
 
 *(Piezīme: funkcija `abs()` aprēķina starpību bez mīnusa zīmes, lai punkti nesanāktu negatīvi, jo tuvāk uzminēts, jo vairāk punktu).*
-
-## Datu avoti
-* **Nāk no `input()`:** `speletaja_vards`, `minets_skaitlis`
-* **Tiek izrēķināts / uzģenerēts programmā:** `slepenais_skaitlis`, `punkti`
+## Dati
+  * **Nāk no `input()`:** `speletaja_vards`, `minets_skaitlis`
+  * **Tiek izrēķināts / uzģenerēts programmā:** `slepenais_skaitlis`, `punkti`
