@@ -1,1 +1,0 @@
-print("Strādāju no apakšmapes")

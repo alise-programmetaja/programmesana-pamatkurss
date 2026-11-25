@@ -1,1 +1,0 @@
-print("te nav alise un krista")
